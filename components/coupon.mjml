@@ -1,0 +1,19 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" />
+    <mj-font name="Panton" href="styles/panton-fonts.css" />
+  </mj-head>
+  <mj-body>
+    <mj-hero mode="fluid-height" background-color="#E5ECFF" padding="24px 0px">
+      <mj-image src="assets/emailTemplates/images/logo.png" width="56px" height="56px" alt="logo" padding="0" />
+      <mj-text align="center" font-family="'Roboto', sans-serif" font-size="16px" line-height="26px" font-weight="400" color="#2F2F2F">
+        <span style="font-family: 'Panton', sans-serif; font-size: 18px; line-height: 26px; padding: 0; margin: 0">Your coupon code</span>
+        </br>Use this coupon code at checkout.
+      </mj-text>
+      <mj-text align="center" font-family="'Roboto', sans-serif" color="#0045FF" padding="12px 25px">
+        <span style="font-size: 24px; line-height: 26px; font-weight: 400; padding: 0; margin: 0">3H-FJSK-849h</span>
+      </mj-text>
+      <mj-include path="./elements/primary-button.mjml" />
+    </mj-hero>
+  </mj-body>
+</mjml>

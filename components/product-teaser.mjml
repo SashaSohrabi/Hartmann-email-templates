@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" />
+    <mj-font name="Panton" href="styles/panton-fonts.css" />
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#FFFFFF" padding="24px 57px">
+      <mj-column vertical-align="top" padding="0 21px 21px 0">
+        <mj-image src="assets/emailTemplates/images/item-02.png" width="239px" alt="item image" padding="0" />
+      </mj-column>
+      <mj-column vertical-align="top">
+        <mj-text padding="0" padding-bottom="14px"><span style="padding: 0; margin: 0; font-family: 'Panton', sans-serif; font-size: 18px; line-height: 26px; color: #2f2f2f; font-weight: 300">Vivamus neget ante felis phareta molecularis~45Z</span></mj-text>
+        <mj-text color="#637381" font-size="16px" padding="0" padding-bottom="14px">
+          <ul style="list-style-type: none; margin: 0; padding: 0; font-family: 'Roboto', sans-serif; font-weight: 400; font-size: 14px; line-height: 22px; color: #585858">
+            <li style="padding-bottom: 8px">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%">
+                <tbody>
+                  <tr>
+                    <td valign="top" width="29px"><img src="assets/emailTemplates/images/tick-icon.svg" width="17px" height="13px" alt="tick icon" padding="0" style="padding: 4px 11px 0 0" /></td>
+                    <td valign="top">Congue auctor nullam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </li>
+            <li style="padding-bottom: 8px">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%">
+                <tbody>
+                  <tr>
+                    <td valign="top" width="29px"><img src="assets/emailTemplates/images/tick-icon.svg" width="17px" height="13px" alt="tick icon" padding="0" style="padding: 4px 11px 0 0" /></td>
+                    <td valign="top">Congue auctor nullam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </li>
+            <li>
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%">
+                <tbody>
+                  <tr>
+                    <td valign="top" width="29px"><img src="assets/emailTemplates/images/tick-icon.svg" width="17px" height="13px" alt="tick icon" padding="0" style="padding: 4px 11px 0 0" /></td>
+                    <td valign="top">Congue auctor nullam ex solemnis, porta carasias~50Z</td>
+                  </tr>
+                </tbody>
+              </table>
+            </li>
+          </ul>
+          <br />
+        </mj-text>
+        <mj-include path="./elements/secondary-button.mjml" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
