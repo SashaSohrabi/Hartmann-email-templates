@@ -1,0 +1,37 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-table font-family="Arial, Helvetica, sans-serif">
+          <tr>
+            <td width="96px" style="padding-bottom: 16px" align="center" valign="top">
+              <img width="56px" style="width: 56px; padding-right: 10px;" src="assets/emailTemplates/images/icon-no1.png"></img>
+            </td>
+            <td style="padding-bottom: 20px" valign="top">
+				      <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: Arial, Helvetica, sans-serif">
+                Beantworten Sie dazu die Fragen auf unserer Website mit Klick auf das jeweilige Bild.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="96px" style="padding-bottom: 16px" align="center" valign="top">
+              <img width="56px" style="width: 56px; padding-right: 10px;" src="assets/emailTemplates/images/icon-no2.png"></img>
+            </td>
+            <td style="padding-bottom: 20px" valign="top">
+				      <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: Arial, Helvetica, sans-serif">
+              Anschließend können Sie die vorgeschlagenen Produkte direkt als Muster in den Warenkorb legen.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="96px" style="padding-bottom: 16px" align="center" valign="top">
+              <img width="56px" style="width: 56px; padding-right: 10px;" src="assets/emailTemplates/images/icon-no3.png"></img>
+            </td>
+            <td style="padding-bottom: 20px" valign="top">
+				      <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: Arial, Helvetica, sans-serif">
+              Nach Abschluss der Bestellung schicken wir Ihren die Produkte kostenlos und unverbindlich zu - zum Ausprobieren in vertrauter Umgebung.</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
