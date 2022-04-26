@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#FFFFFF" padding="32px 24px">
+      <mj-column>
+        <mj-table padding="0" font-family="'Roboto', sans-serif" color="#2f2f2f" font-size="14px" line-height="22px">
+          <tr style="background-color: #e5ecff; text-align: left">
+            <th style="padding: 12px 10px 10px 12px; width: 25%; text-align: left">Pants</th>
+            <th style="padding: 12px 10px 10px 12px; width: 25%; text-align: left">XS</th>
+            <th style="padding: 12px 10px 10px 12px; width: 25%; text-align: left">S</th>
+            <th style="padding: 12px 10px 10px 12px; width: 25%; text-align: left">M</th>
+          </tr>
+          <tr style="background-color: #ffffff; text-align: left">
+            <td style="padding: 12px 10px 10px 12px; width: 25%; font-weight: bold">Hüft-umfang in cm</td>
+            <td style="padding: 12px 10px 10px 12px; width: 25%">45 - 70</td>
+            <td style="padding: 12px 10px 10px 12px; width: 25%">60 - 90</td>
+            <td style="padding: 12px 10px 10px 12px; width: 25%">80 - 120</td>
+          </tr>
+        </mj-table>
+        <mj-table padding="0" font-family="'Roboto', sans-serif" color="#2f2f2f" font-size="14px" line-height="22px">
+          <tr style="background-color: #e5ecff; text-align: left">
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">Pants</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">L</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">XL</th>
+          </tr>
+          <tr style="background-color: #ffffff; text-align: left">
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%; font-weight: bold">Hüft-umfang in cm</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">100 - 150</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">130 - 170</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd" padding="0" />
+
+        <mj-spacer height="32px" />
+
+        <mj-table padding="0" font-family="'Roboto', sans-serif" color="#2f2f2f" font-size="14px" line-height="22px">
+          <tr style="background-color: #e5ecff; text-align: left">
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">Premium Elastic</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">S</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">M</th>
+          </tr>
+          <tr style="background-color: #ffffff; text-align: left">
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%; font-weight: bold">Hüft-umfang <br />in cm</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">70 - 90</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">85 - 120</td>
+          </tr>
+        </mj-table>
+        <mj-table padding="0" font-family="'Roboto', sans-serif" color="#2f2f2f" font-size="14px" line-height="22px">
+          <tr style="background-color: #e5ecff; text-align: left">
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">Premium Elastic</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">L</th>
+            <th style="padding: 12px 10px 10px 12px; width: 33.33%; text-align: left">XL</th>
+          </tr>
+          <tr style="background-color: #ffffff; text-align: left">
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%; font-weight: bold">Hüft-umfang <br />in cm</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">115 - 145</td>
+            <td style="padding: 12px 10px 10px 12px; width: 33.33%">130 - 170</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
