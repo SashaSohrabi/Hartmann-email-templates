@@ -1,0 +1,18 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#fff" padding="40px">
+      <mj-column padding="10px">
+        <mj-image padding="0" src="assets/emailTemplates/images/main-visual.png"></mj-image>
+        <mj-text align="left" font-family="Arial, Helvetica, sans-serif" padding="15px 0 15px 0" font-weight="400" align="center" font-size="18px" line-height="26px" color="#2F2F2F" font-family="Arial, Helvetica, sans-serif">Therapie - und Behandlungs - möglichkeiten bei Inkontinenz</mj-text>
+        <mj-text align="left" font-family="Arial, Helvetica, sans-serif" padding="0 0 15px 0" font-size="14px" font-weight="400" line-height="22px" color="#585858" font-family="Arial, Helvetica, sans-serif"> Heuzutage gibt es viele Hilfsmittel, Theraphien und Behandlungen, die ein gutes und aktives Leben mit Blasenschwäche ermöglichen. Informieren Sie sich jetzt über Ihre Möglichkeiten</mj-text>
+        <mj-include path="../components/elements/secondary-button.mjml" />
+      </mj-column>
+      <mj-column padding="10px">
+        <mj-image padding="0" src="assets/emailTemplates/images/main-visual.png"></mj-image>
+        <mj-text align="left" font-family="Arial, Helvetica, sans-serif" padding="15px 0 15px 0" font-weight="300" align="center" font-size="18px" line-height="26px" color="#2F2F2F" font-family="Arial, Helvetica, sans-serif">Den Alltag meistern mit Blasenschwäeche – so gelingt es!</mj-text>
+        <mj-text align="left" font-family="Arial, Helvetica, sans-serif" padding="0 0 15px 0" font-size="14px" font-weight="400" line-height="22px" color="#585858" font-family="Arial, Helvetica, sans-serif"> Gestalten Sie Ihren Alltag so, dass Harninkontinenzprobleme Sie so wenig wie möglich belasten - und Sie das Leben weiter in vollen Zügen genießen können. Diese Tipps & Tricks helfen Sie dabei.</mj-text>
+        <mj-include path="../components/elements/secondary-button.mjml" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
