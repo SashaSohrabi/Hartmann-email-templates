@@ -1,0 +1,18 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#ffffff" css-class="no-outer-padding" padding-left="50px" padding-right="50px" vertical-align="top" padding="8px 0">
+      <mj-column vertical-align="top" padding="0" width="33.33333333333333%">
+        <mj-image padding-bottom="16px" src="assets/email-templates/images/icon-list.png" alt="" width="56px" height="56px"></mj-image>
+        <mj-text align="center" font-weight="300">Sanusquim essisam marans</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" padding="0" width="33.33333333333333%">
+        <mj-image padding-bottom="16px" src="assets/email-templates/images/icon-list.png" alt="" width="56px" height="56px"></mj-image>
+        <mj-text align="center" font-weight="300">Vivamus negit</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" padding="0" width="33.33333333333333%">
+        <mj-image padding-bottom="16px" src="assets/email-templates/images/icon-list.png" alt="" width="56px" height="56px"></mj-image>
+        <mj-text align="center" font-weight="300">Fringilla nisi at vestibulum</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-body>
+</mjml>
