@@ -1,16 +1,28 @@
 <mjml>
   <mj-head>
-    <mj-style> .teaser-content div { text-align: left; } @media only screen and (max-width: 480px){ .teaser-content div { text-align: center !important; } .teaser-content table { width: 100%; } } </mj-style>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        .teaser-content td {
+          padding-left: 0px !important;
+        }
+
+        .teaser-content div,
+        .teaser-content table {
+          text-align: center !important;
+          margin: 0 auto;
+        }
+      }
+    </mj-style>
   </mj-head>
   <mj-body>
-    <mj-section background-color="#2E65FA">
-      <mj-column width="84px" padding="4px 0">
-        <mj-image width="84px" border-radius="100%" padding="0" align="center" src="assets/emailTemplates/images/highlight.png"></mj-image>
+    <mj-section background-color="#2E65FA" padding="24px 52px">
+      <mj-column width="84px" padding="0">
+        <mj-image width="84px" height="84px" padding="0 0 20px 0" align="center" src="assets/email-templates/images/highlight.png"></mj-image>
       </mj-column>
-      <mj-column width="70%" padding="4px 25px 4px 30px" css-class="teaser-content">
-        <mj-text css-class="teaser-content" padding="0 0 10px 0" font-weight="bold" align="justify" font-size="16px" color="#fff" font-family="Arial, Helvetica, sans-serif">Samuel Pramer, GP, Bristol, UK</mj-text>
-        <mj-text css-class="teaser-content" padding="0 0 15px 0" align="justify" font-size="14px" line-height="22px" color="#fff" font-family="Arial, Helvetica, sans-serif">Aliquam aliquet est at ipsum eleifend condimentum. Fusce dapibus fringilla nisi at vestibulum. Praesent posuere non nisi ac fusce ~130Z</mj-text>
-        <mj-include path="../components/elements/invert-button.mjml" />
+      <mj-column width="407px" padding="0px 0 0px 21px" css-class="teaser-content">
+        <mj-text css-class="teaser-content" padding="0 0 4px 0" font-weight="700" font-size="16px" line-height="26px" color="#fff" font-family="Arial, Helvetica, sans-serif">Monica Pramer, GP, Bristol, UK</mj-text>
+        <mj-text css-class="teaser-content" padding="0 0 20px 0" font-size="14px" line-height="22px" color="#fff" font-family="Arial, Helvetica, sans-serif">Aliquam aliquet est at ipsum eleifend condimentum. Fusce dapibus fringilla nisi at vestibulum. Praesent posuere non nisi ac fusce ~130Z</mj-text>
+        <mj-include path="./elements/invert-button.mjml" />
       </mj-column>
     </mj-section>
   </mj-body>

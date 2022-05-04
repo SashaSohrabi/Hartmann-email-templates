@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" />
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#fff" padding="24px 52px">
+      <mj-column padding="0">
+        <mj-table padding="0">
+          <tr>
+            <td width="81px" style="padding-bottom: 15px" align="left" valign="top">
+              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no1.png" />
+            </td>
+            <td style="padding-bottom: 20px" valign="top">
+              <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
+                Beantworten Sie dazu die Fragen auf unserer Website mit Klick auf das jeweilige Bild.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="81px" style="padding-bottom: 15px" align="left" valign="top">
+              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no2.png" />
+            </td>
+            <td style="padding-bottom: 20px" valign="top">
+              <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
+                Anschließend können Sie die vorgeschlagenen Produkte direkt als Muster in den Warenkorb legen.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="81px" align="left" valign="top">
+              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no3.png" />
+            </td>
+            <td valign="top">
+              <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
+                Nach Abschluss der Bestellung schicken wir Ihren die Produkte kostenlos und unverbindlich zu - zum Ausprobieren in vertrauter Umgebung.</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

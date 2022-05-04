@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" />
+    <mj-font name="Panton" href="assets/email-templates/styles/panton-fonts.css" />
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text align="center" font-weight="300" padding="32px 0 26px 0" font-family="'Panton', sans-serif" font-size="18px" line-height="30px" color="#2F2F2F">Ihr Musterbestellung im Überblick</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image width="165px" src="assets/email-templates/images/three-column-teaser-image.png" padding="0"></mj-image>
+        <mj-text align="left" padding="15px 0px 20px 15px" font-weight="400" font-family="'Roboto', sans-serif" line-height="26px" font-size="16px" color="#2F2F2F">MoliCare Premium Mobile 8 Tropfen </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="assets/email-templates/images/three-column-teaser-image.png" padding="0"></mj-image>
+        <mj-text align="left" padding="15px 0px 20px 15px" font-weight="400" font-family="'Roboto', sans-serif" line-height="26px" font-size="16px" color="#2F2F2F"> MoliCare Pad 4 Tropfen </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="assets/email-templates/images/three-column-teaser-image.png" padding="0"></mj-image>
+        <mj-text align="left" padding="15px 0px 20px 15px" font-weight="400" font-family="'Roboto', sans-serif" line-height="26px" font-size="16px" color="#2F2F2F"> MoliCare Form super plus 8 Tropfen</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

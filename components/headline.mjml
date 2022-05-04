@@ -1,0 +1,10 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Panton" href="assets/email-templates/styles/panton-fonts.css" />
+  </mj-head>
+  <mj-body>
+    <mj-hero mode="fluid-height" padding="0px">
+      <mj-text align="left" font-family="'Panton', sans-serif" font-weight="400" font-size="18px" line-height="26px" padding="32px 24px" color="#2F2F2F">War das passende Produkt noch nicht dabei, Frau Petra?</mj-text>
+    </mj-hero>
+  </mj-body>
+</mjml>
