@@ -1,1 +1,1 @@
-<mj-button align="left" css-class="teaser-content" border-radius="5px" background-color="#2E65FA" border="1px solid #fff" padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="26px" inner-padding="11px 16px">Velia umandiam esim</mj-button>
+<mj-button align="left" css-class="teaser-content" font-weight="500" border-radius="5px" background-color="#2E65FA" border="1px solid #fff" padding="0" font-family="'Roboto', sans-serif" font-size="16px" line-height="26px" inner-padding="11px 16px">Velia umandiam esim</mj-button>
