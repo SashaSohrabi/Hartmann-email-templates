@@ -4,12 +4,12 @@
     </mj-style>
   </mj-head>
   <mj-body>
-    <mj-section background-color="#fff" padding="24px 52px">
+    <mj-section background-color="#fff" padding="24px">
       <mj-column padding="0">
         <mj-table padding="0">
           <tr>
             <td width="81px" style="padding-bottom: 15px" align="left" valign="top">
-              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no1.png" />
+              <img width="56px" alt="1" src="assets/email-templates/images/icon-no1.png" />
             </td>
             <td style="padding-bottom: 20px" valign="top">
               <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
@@ -18,7 +18,7 @@
           </tr>
           <tr>
             <td width="81px" style="padding-bottom: 15px" align="left" valign="top">
-              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no2.png" />
+              <img width="56px" alt="2" src="assets/email-templates/images/icon-no2.png" />
             </td>
             <td style="padding-bottom: 20px" valign="top">
               <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
@@ -27,7 +27,7 @@
           </tr>
           <tr>
             <td width="81px" align="left" valign="top">
-              <img width="56px" src="https://raw.githubusercontent.com/SashaSohrabi/Hartmann-email-templates/master/build/assets/emailTemplates/images/icon-no3.png" />
+              <img width="56px" alt="3" src="assets/email-templates/images/icon-no3.png" />
             </td>
             <td valign="top">
               <p style="font-size: 14px; margin: 0; line-height: 22px; color: #585858; font-family: 'Roboto', sans-serif">
