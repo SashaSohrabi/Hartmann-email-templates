@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500,700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#fff" padding="0">
+      <mj-column padding="0">
+        <mj-image padding="0" height="72px" align="center" alt="footer" src="assets/email-templates/images/footer-bg.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="30px 0 0 0">
+      <mj-column padding="0">
+        <mj-text align="center" padding="0" font-weight="700" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">Hartmann Direct Online Shop</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0" css-class="divider-outer">
+      <mj-column padding="0">
+        <mj-include path="./elements/divider-white.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0 24px">
+      <mj-column padding="0 20px 0 0">
+        <mj-text padding="0" font-weight="400" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          <a class="text-link" style="text-align: left; text-decoration: none; color: #fff; display: block; font-size: 14px; line-height: 22px; font-family: 'Roboto', sans-serif" href="#">AGB</a>
+          <a class="text-link" style="text-align: left; text-decoration: none; color: #fff; display: block; font-size: 14px; line-height: 22px; font-family: 'Roboto', sans-serif" href="#">Impressum & Haftungsausschluss</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text padding="0" font-weight="400" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          <a class="text-link" style="text-align: left; text-decoration: none; color: #fff; display: block; font-size: 14px; line-height: 22px; font-family: 'Roboto', sans-serif" href="#">Hier abmelden</a>
+          <a class="text-link" style="text-align: left; text-decoration: none; color: #fff; display: block; font-size: 14px; line-height: 22px; font-family: 'Roboto', sans-serif" href="#">Cookie Richtlinie</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0" css-class="divider-outer">
+      <mj-column padding="0">
+        <mj-include path="./elements/divider-white.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0 24px">
+      <mj-column padding="0 20px 0 0">
+        <mj-text padding="0" font-weight="700" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          Sie möchten den Newsletter nicht mehr erhalten?
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text css-class="teaser-content-inner teaser-content-right" padding="0" font-weight="400" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          <a class="text-link" style="text-align: left; text-decoration: underline; color: #fff; display: block; font-size: 14px; line-height: 22px; font-family: 'Roboto', sans-serif" href="#">Hier abmelden</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0" css-class="divider-outer">
+      <mj-column padding="0">
+        <mj-include path="./elements/divider-white.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0 24px">
+      <mj-column padding="0 20px 0 0">
+        <mj-text padding="0" font-weight="700" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          PAUL HARTMANN AG
+        </mj-text>
+        <mj-text padding="0" font-weight="400" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          Marketing Germany</br>
+          Paul-Hartmann-Str. 12</br>
+          89522 Heidenheim
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text padding="0" font-weight="700" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          Kontakt
+        </mj-text>
+        <mj-text css-class="teaser-content-inner teaser-content-right" padding="0" font-weight="400" align="left" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">
+          0800 182 73 26<br />
+          <a class="text-link" style="text-align: left; color: #fff; display: block; font-size: 14px;" href="mailto:info@hartmann-direct.de">info@hartmann-direct.de</a>
+          Montags bis freitags<br />
+          9:30 – 18:30 Uhr
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0" css-class="divider-outer">
+      <mj-column padding="0">
+        <mj-include path="./elements/divider-white.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0 24px">
+      <mj-column padding="0">
+        <mj-table padding="0" color="#ffffff" align="center" css-class="social-media">
+          <tr>
+            <td align="center"><a href="#"><img src="assets/email-templates/images/facebook-icon.png" alt="facebook" width="20px" /></a></td>
+            <td align="center"><a href="#"><img src="assets/email-templates/images/twitter-icon.png" alt="twitter" width="20px" /></a></td>
+            <td align="center"><a href="#"><img src="assets/email-templates/images/youtube-icon.png" alt="youtube" width="20px" /></a></td>
+            <td align="center"><a href="#"><img src="assets/email-templates/images/linkedin-icon.png" alt="linkedin" width="20px" /></a></td>
+            <td align="center"><a href="#"><img src="assets/email-templates/images/instagram-icon.png" alt="instagram" width="20px" /></a></td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0" css-class="divider-outer">
+      <mj-column padding="0">
+        <mj-include path="./elements/divider-white.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF" padding="0 0 16px 0">
+      <mj-column padding="0 24px">
+        <mj-image width="141px" padding="0" align="center" alt="Logo" src="assets/email-templates/images/logo-claim-white.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0045FF">
+      <mj-column padding="0 24px">
+        <mj-text align="left" padding="20px 0" font-weight="400" font-size="14px" line-height="22px" color="#fff" font-family="'Roboto', sans-serif">© 2022 PAUL HARTMANN AG</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
