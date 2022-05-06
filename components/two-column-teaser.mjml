@@ -4,29 +4,29 @@
     <mj-font name="Panton" href="assets/email-templates/styles/panton-fonts.css" />
   </mj-head>
   <mj-body>
-    <mj-section background-color="#fff" padding="0 52px">
+    <mj-section background-color="#fff" padding="32px 24px 0">
       <mj-column padding="0">
-        <mj-text padding="32px 0 24px 0" font-weight="310" align="center" font-size="24px" line-height="32px" color="#2F2F2F" font-family="'Panton', sans-serif">Hilfreiche Informationen <br />zum Thema Blasenschwäche</mj-text>
+        <mj-text padding="0" font-weight="300" align="center" font-size="24px" line-height="32px" color="#2F2F2F" font-family="'Panton', sans-serif">Hilfreiche Informationen <br />zum Thema Blasenschwäche</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff" padding="0 42px 0 42px">
+    <mj-section background-color="#fff" padding="24px 14px 0 14px">
       <mj-column padding="0 10px 40px 10px">
         <mj-raw>
           <img src="assets/email-templates/images/two-column-grid-visual.png" width="100%" alt="" padding="0" />
         </mj-raw>
-        <mj-text align="left" padding="14px 0" font-weight="400" font-size="18px" line-height="26px" color="#2F2F2F" font-family="'Panton', sans-serif">Therapie - und Behandlungs - möglichkeiten bei Inkontinenz</mj-text>
+        <mj-text align="left" padding="14px 0" font-weight="300" font-size="20px" line-height="28px" color="#2F2F2F" font-family="'Panton', sans-serif">Therapie - und Behandlungs - möglichkeiten bei Inkontinenz</mj-text>
         <mj-text align="left" padding="0 0 14px 0" font-size="14px" font-weight="400" line-height="22px" color="#585858" font-family="'Roboto', sans-serif">
           Heuzutage gibt es viele Hilfsmittel, Theraphien und Behandlungen, die ein gutes und aktives Leben mit Blasenschwäche ermöglichen. Informieren Sie sich jetzt über Ihre Möglichkeiten</mj-text>
-        <mj-include path="../components/elements/secondary-button.mjml" />
+        <mj-include path="./elements/secondary-button.mjml" />
       </mj-column>
       <mj-column padding="0 10px 40px 10px">
         <mj-raw>
           <img src="assets/email-templates/images/two-column-grid-visual.png" width="100%" alt="" padding="0" />
         </mj-raw>
-        <mj-text align="left" padding="14px 0" font-weight="300" font-size="18px" line-height="26px" color="#2F2F2F" font-family="'Panton', sans-serif">Den Alltag meistern mit Blasenschwäeche – so gelingt es!</mj-text>
+        <mj-text align="left" padding="14px 0" font-weight="300" font-size="20px" line-height="28px" color="#2F2F2F" font-family="'Panton', sans-serif">Den Alltag meistern mit Blasenschwäeche – so gelingt es!</mj-text>
         <mj-text align="left" padding="0 0 14px 0" font-size="14px" font-weight="400" line-height="22px" color="#585858" font-family="'Roboto', sans-serif">
           Gestalten Sie Ihren Alltag so, dass Harninkontinenzprobleme Sie so wenig wie möglich belasten - und Sie das Leben weiter in vollen Zügen genießen können. Diese Tipps & Tricks helfen Sie dabei.</mj-text>
-        <mj-include path="../components/elements/secondary-button.mjml" />
+        <mj-include path="./elements/secondary-button.mjml" />
       </mj-column>
     </mj-section>
   </mj-body>

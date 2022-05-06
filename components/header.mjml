@@ -1,0 +1,17 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500,700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <mj-section padding="0" background-color="#F8F8F8">
+      <mj-column vertical-align="middle" padding="12px 32px">
+        <mj-text align="center" font-weight="400" padding="0" font-family="'Roboto', sans-serif" font-size="11px" line-height="16px" font-weight="400" color="#585858">Wenn diese E-Mail nicht korrekt dargestellt wird, klicken Sie bitte <a class="text-link" style="text-align: left; color: #585858; font-size: 11px; line-height: 16px; font-weight: 400; font-family: 'Roboto', sans-serif" href="#">hier</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column vertical-align="middle" padding="40px 24px">
+        <mj-image width="166px" align="left" padding="0" src="assets/email-templates/images/hartmanndirect-logo.png" href="https://molicare.com.au/" alt="Hartmann Direct"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
